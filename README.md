@@ -18,6 +18,10 @@ It's not very complicated, but there's a bit of command line work.  You'll need 
 client to grab this repo, and create a soft symlink so that OpenRocket finds the database
 when it starts up.
 
+---
+
+This project was created by [Dave Cook](https://github.com/dbcook/openrocket-database) and actively maintained by him until 2024. The OpenRocket team would like to thank him for his efforts.
+
 ## Compatibility
 
 OpenRocket compatibility:  OpenRocket 15.03 and 2022.02 and newer releases.
