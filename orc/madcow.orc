@@ -3044,7 +3044,7 @@ SOURCE ERROR: Weights per foot of coupler tubes larger than FC30 are not given, 
         
         <!-- 1/4" lug ***ID/OD estimated using 9/32 ID and giving it .021 wall -->
         <LaunchLug>
-          <Manufacturer>Maadcow</Manufacturer>
+          <Manufacturer>Madcow</Manufacturer>
           <PartNumber>P-182</PartNumber>
           <Description>Launch lug, paper, 1/4 x 1"</Description>
           <Material Type="BULK">Paper, spiral kraft glassine, bulk</Material>
