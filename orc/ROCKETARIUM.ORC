@@ -530,8 +530,8 @@ Using this file:
 			<PartNumber>BT-60, White, 6"</PartNumber>
 			<Description>BT-60 Body Tube. 6" White, PN BT-60, White, 6"</Description>
 			<Material Type="BULK">Paper, spiral kraft glassine, bulk</Material>
-			<InsideDiameter Unit="in">3.9</InsideDiameter>
-			<OutsideDiameter Unit="in">4.024</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
+			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
 			<Length Unit="in">6</Length>
 		</BodyTube>
 		<BodyTube>
@@ -539,8 +539,8 @@ Using this file:
 			<PartNumber>BT-60, White, 9"</PartNumber>
 			<Description>BT-60 Body Tube. 9" White, PN BT-60, White, 9"</Description>
 			<Material Type="BULK">Paper, spiral kraft glassine, bulk</Material>
-			<InsideDiameter Unit="in">3.9</InsideDiameter>
-			<OutsideDiameter Unit="in">4.024</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
+			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
 			<Length Unit="in">9</Length>
 		</BodyTube>
 		<BodyTube>
@@ -548,8 +548,8 @@ Using this file:
 			<PartNumber>BT-60, White, 11.4"</PartNumber>
 			<Description>BT-60 Body Tube. 11.4" White, PN BT-60, White, 11.4"</Description>
 			<Material Type="BULK">Paper, spiral kraft glassine, bulk</Material>
-			<InsideDiameter Unit="in">3.9</InsideDiameter>
-			<OutsideDiameter Unit="in">4.024</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
+			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
 			<Length Unit="in">11.4</Length>
 		</BodyTube>
 		<BodyTube>
@@ -557,8 +557,8 @@ Using this file:
 			<PartNumber>BT-60, White, 16"</PartNumber>
 			<Description>BT-60 Body Tube. 16" White, PN BT-60, White, 16"</Description>
 			<Material Type="BULK">Paper, spiral kraft glassine, bulk</Material>
-			<InsideDiameter Unit="in">3.9</InsideDiameter>
-			<OutsideDiameter Unit="in">4.024</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
+			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
 			<Length Unit="in">16</Length>
 		</BodyTube>
 		<!-- Motor tubes -->
