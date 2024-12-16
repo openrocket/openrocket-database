@@ -224,7 +224,7 @@ Parts from #9701 Ventris
         <ShoulderDiameter Unit="in">1.920</ShoulderDiameter>
         <ShoulderLength Unit="in">2.0</ShoulderLength>
         <Length Unit="in">9.6</Length>
-        <Thickness>0.125</Thickness>
+        <Thickness Unit="in">0.125</Thickness>
       </NoseCone>
 
       <!-- PSII 2.0" to 2.5" transition PN 72657 - no dimensions given by Estes.  However see
@@ -301,7 +301,7 @@ Parts from #9701 Ventris
         <ShoulderDiameter Unit="in">2.420</ShoulderDiameter>
         <ShoulderLength Unit="in">2.43</ShoulderLength>
         <Length Unit="in">9.75</Length>
-        <Thickness>0.125</Thickness>
+        <Thickness Unit="in">0.125</Thickness>
       </NoseCone>
 
       <!-- PSII 3.0" tube OD given as 3 in, len 21.6", used in #9700 Leviathan -->
