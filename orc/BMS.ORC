@@ -1367,7 +1367,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, paper, T50 to T55, 0.25" thick, PN CR5055-P</Description>
 			<Material Type="BULK">Paper, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.250</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1376,7 +1376,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Center ring, fiber, T50 to T55, 0.05" thick, PN CR5055-F</Description>
 			<Material Type="BULK">Fiber, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.050</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1385,7 +1385,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50 to T55, 0.125" thick, PN CR5055-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1394,7 +1394,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50H to T55, 0.125" thick, PN CR50H55-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">0.990</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1403,7 +1403,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50 to T60, 0.125" thick, PN CR5060-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
