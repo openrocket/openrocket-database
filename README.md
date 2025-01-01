@@ -13,18 +13,13 @@ components are available for selection in the menus.
 As of the 2022.02 OpenRocket release (Feb 2023), this database is automatically installed along with OpenRocket,
 and you don't have to do anything special to install it.
 
-For the old OpenRocket 15.03, you have to do a slightly technical installation.
-It's not very complicated, but there's a bit of command line work.  You'll need to be able to use a `git`
-client to grab this repo, and create a soft symlink so that OpenRocket finds the database
-when it starts up.
-
 ---
 
 This project was created by [Dave Cook](https://github.com/dbcook/openrocket-database) and actively maintained by him until 2024. The OpenRocket team would like to thank him for his efforts.
 
 ## Compatibility
 
-OpenRocket compatibility:  OpenRocket 15.03 and 2022.02 and newer releases.
+OpenRocket compatibility:  OpenRocket 24.12 and newer releases.
 
 Thus far this database does not use any of the new data fields present in the 2022+ OpenRocket releases
 that are incompatible with 15.03.  However, it is now about time to drop this backward
@@ -204,12 +199,7 @@ many cases, especially those involving asymmetric lift/drag.
 
 ## Installing and Uninstalling
 
-### Installing with OpenRocket 22.xx releases
-
-You don't have to do anything.  This is the default database for the new OpenRocket.
-
-If you want to update OpenRocket 22.02+ to use a newer version of this database, the
-procedure given below for installing into OpenRocket 15.03 works for that.
+You don't have to do anything. This is the default database since OpenRocket 22.02.
 
 ### Installing with OpenRocket 15.03 (last stable release from 2015)
 
@@ -264,7 +254,7 @@ when OpenRocket tries to load parts files from a nonexistent directory.
 
 ## Reporting Problems
 
-Please file issues here on GitHub so that they can be tracked and get comments.  I'm
+Please file issues here on GitHub so that they can be tracked and get comments.  We're
 very interested in:
 
 * Data for missing parts, including source attribution.
@@ -289,7 +279,8 @@ Please don't report problems on TRF, via email, etc. - use GitHub issues; others
 
 ## State of the Project
 
-2024: still in maintenance mode; planning to hand the project off to the OpenRocket dev community this year.
+2024: still in maintenance mode; project handed off to the OpenRocket dev community.
+
 2022: now making minor updates only
 
 2021: after 5+ years of development, I feel this project is mostly complete and the effort is at the point
@@ -1261,9 +1252,6 @@ structural.
    * Cannot specify shape parameter for OGIVE, POWER, PARABOLIC and HAACK shapes
    * Cannot specify wall thickness for nose cone or transition shoulders
    * Cannot specify whether nose cone or transition shoulders are capped
-   * Cannot directly specify a rear-facing nose cone for pods or nozzle cones.
-     However, you can fake this out by creating a reducing transition with a zero
-     aft shoulder diameter.
    * No support for drilled-for-a-tube solid (balsa) tail cones.  You can only
      define a fully filled part, or hollow with constant wall thickness.
      Therefore, there is no good way to model an Estes BTC-55Z or similar part.
@@ -1282,7 +1270,7 @@ structural.
    * Cannot define shock cord components at all
 * Additional problems not specific to .orc files:
    * OR does not model moments of inertia for hollow NC/transition shoulders
-   * OpenRocket only supports tubular launch lugs - no support for rail buttons or guides (fixed in 2022 betas)
+   * No support for rail guides
    * No support for lug standoffs (maybe fixed in 2022 betas)
    * Cannot attach a mass object to a parachute (e.g. Chute Release device)
    * Cannot attach a mass object to a streamer
@@ -1299,17 +1287,13 @@ structural.
    * If you are defining a nose cone and load one from the database with a different shape, the
      shape dropdown doesn't update and the displayed mass doesn't recompute.  I haven't verified it,
      but this may also be a bug with transitions.
-   * UI part selection dialog expands poorly, only 1/3 of the area gets used for the main table
    * UI doesn't visually distinguish between component intrinsic attributes and parameters
      related to their placement or use in the design like relative position, radial position, etc.
-   * The filter field in the parts selection UI defaults to near zero width (on Mac at least)
-   * UI doesn't remember last size of the parts selection dialogs, you have to resize every time
    * Duplicating a part, whether by copy/paste or by creating a 2nd one attached to the same
      parent component, always puts them right on top of each other.  That is useful for
      items that are going to be distributed radially about the centerline like cluster motor
      tubes, but not helpful for centering rings, launch lugs, and bulkheads.
-   * Packing diameter of parachutes, streamers and shock cords should default to the ID of
-     the parent body tube, and packing length of streamers should default to the width of the
+   * Packing length of streamers should default to the width of the
      streamer.
    * Relative (axial) position and radial position of components really should be on the same tab.
 
