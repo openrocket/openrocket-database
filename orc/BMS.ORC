@@ -1367,7 +1367,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, paper, T50 to T55, 0.25" thick, PN CR5055-P</Description>
 			<Material Type="BULK">Paper, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.250</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1376,7 +1376,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Center ring, fiber, T50 to T55, 0.05" thick, PN CR5055-F</Description>
 			<Material Type="BULK">Fiber, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.050</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1385,7 +1385,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50 to T55, 0.125" thick, PN CR5055-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1394,7 +1394,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50H to T55, 0.125" thick, PN CR50H55-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">0.990</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -1403,7 +1403,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Description>Centering ring, lite-ply, T50 to T60, 0.125" thick, PN CR5060-W</Description>
 			<Material Type="BULK">Plywood, light, bulk</Material>
 			<InsideDiameter Unit="in">0.978</InsideDiameter>
-			<OutsideDiameter Unit="in">1.238</OutsideDiameter>
+			<OutsideDiameter Unit="in">1.283</OutsideDiameter>
 			<Length Unit="in">0.125</Length>
 		</CenteringRing>
 		<CenteringRing>
@@ -2443,6 +2443,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">1.325</OutsideDiameter>
+			<InsideDiameter Unit="in">1.283</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.280</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.500</ShoulderLength>
 			<Length Unit="in">5.400</Length>
@@ -2457,6 +2458,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">1.325</OutsideDiameter>
+			<InsideDiameter Unit="in">1.283</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.280</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.75</ShoulderLength>
 			<Length Unit="in">4.2</Length>
@@ -2470,6 +2472,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">1.325</OutsideDiameter>
+			<InsideDiameter Unit="in">1.283</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.280</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.75</ShoulderLength>
 			<Length Unit="in">5.000</Length>
@@ -2483,6 +2486,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>CONICAL</Shape>
 			<OutsideDiameter Unit="in">1.325</OutsideDiameter>
+			<InsideDiameter Unit="in">1.283</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.280</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.75</ShoulderLength>
 			<Length Unit="in">1.600</Length>
@@ -2496,6 +2500,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>CONICAL</Shape>
 			<OutsideDiameter Unit="in">1.325</OutsideDiameter>
+			<InsideDiameter Unit="in">1.283</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.280</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">4.500</Length>
@@ -2509,6 +2514,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">1.325</OutsideDiameter>
+			<InsideDiameter Unit="in">1.283</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.280</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">4.200</Length>
@@ -2523,6 +2529,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">1.325</OutsideDiameter>
+			<InsideDiameter Unit="in">1.283</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.280</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.750</ShoulderLength>
 			<Length Unit="in">6.000</Length>
@@ -2544,6 +2551,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
             <Filled>true</Filled>
             <Shape>CONICAL</Shape>
             <OutsideDiameter Unit="in">1.637</OutsideDiameter>
+            <InsideDiameter Unit="in">1.595</InsideDiameter>
             <ShoulderDiameter Unit="in">1.595</ShoulderDiameter>
             <ShoulderLength Unit="in">0.375</ShoulderLength>
             <Length Unit="in">2.34</Length>
@@ -2558,6 +2566,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.592</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">6.60</Length>
@@ -2571,6 +2580,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>CONICAL</Shape>
 			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.592</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">4.300</Length>
@@ -2584,6 +2594,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.592</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">3.500</Length>
@@ -2597,6 +2608,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.592</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">4.500</Length>
@@ -2610,6 +2622,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.592</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.750</ShoulderLength>
 			<Length Unit="in">3.13</Length>
@@ -2624,6 +2637,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">1.637</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.592</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.750</ShoulderLength>
 			<Length Unit="in">2.500</Length>
@@ -2638,6 +2652,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">1.673</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.590</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.750</ShoulderLength>
 			<Length Unit="in">1.000</Length>
@@ -2652,6 +2667,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">1.635</OutsideDiameter>
+			<InsideDiameter Unit="in">1.595</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.592</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.750</ShoulderLength>
 			<Length Unit="in">5.25</Length>
@@ -2715,6 +2731,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<InsideDiameter Unit="in">2.180</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.180</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.500</ShoulderLength>
 			<Length Unit="in">4.45</Length>
@@ -2728,6 +2745,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<InsideDiameter Unit="in">2.180</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.172</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">4.500</Length>
@@ -2741,6 +2759,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<InsideDiameter Unit="in">2.180</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.172</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">3.350</Length>
@@ -2754,6 +2773,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<InsideDiameter Unit="in">2.180</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.172</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">2.150</Length>
@@ -2767,6 +2787,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<InsideDiameter Unit="in">2.180</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.172</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">4.200</Length>
@@ -2780,6 +2801,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">2.217</OutsideDiameter>
+			<InsideDiameter Unit="in">2.180</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.172</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">7.000</Length>
@@ -2797,6 +2819,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">2.245</OutsideDiameter>
+			<InsideDiameter Unit="in">2.180</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.172</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">3.350</Length>
@@ -2810,6 +2833,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">2.245</OutsideDiameter>
+			<InsideDiameter Unit="in">2.180</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.172</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.000</ShoulderLength>
 			<Length Unit="in">7.000</Length>
@@ -2827,6 +2851,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">2.600</OutsideDiameter>
+			<InsideDiameter Unit="in">2.588</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.588</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.500</ShoulderLength>
 			<Length Unit="in">4.000</Length>
@@ -2840,6 +2865,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">2.600</OutsideDiameter>
+			<InsideDiameter Unit="in">2.588</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.557</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.500</ShoulderLength>
 			<Length Unit="in">4.000</Length>
@@ -2853,6 +2879,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">2.600</OutsideDiameter>
+			<InsideDiameter Unit="in">2.588</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.557</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.500</ShoulderLength>
 			<Length Unit="in">8.250</Length>
@@ -2866,6 +2893,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">2.640</OutsideDiameter>
+			<InsideDiameter Unit="in">2.588</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.557</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.500</ShoulderLength>
 			<Length Unit="in">8.250</Length>
@@ -2879,6 +2907,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">0.908</OutsideDiameter>
+			<InsideDiameter Unit="in">0.865</InsideDiameter>
 			<ShoulderDiameter Unit="in">0.862</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.500</ShoulderLength>
 			<Length Unit="in">3.500</Length>
@@ -2896,6 +2925,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">2.640</OutsideDiameter>
+			<InsideDiameter Unit="in">2.558</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.557</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.500</ShoulderLength>
 			<Length Unit="in">4.000</Length>
@@ -2913,6 +2943,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>ELLIPSOID</Shape>
 			<OutsideDiameter Unit="in">3.000</OutsideDiameter>
+			<InsideDiameter Unit="in">2.930</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.927</ShoulderDiameter>
 			<ShoulderLength Unit="in">1.500</ShoulderLength>
 			<Length Unit="in">4.300</Length>
@@ -2928,6 +2959,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Thickness Unit="in">0.050</Thickness>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">3.000</OutsideDiameter>
+			<InsideDiameter Unit="in">2.930</InsideDiameter>
 			<ShoulderDiameter Unit="in">2.927</ShoulderDiameter>
 			<ShoulderLength Unit="in">3.000</ShoulderLength>
 			<Length Unit="in">11.000</Length>
@@ -2942,6 +2974,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>CONICAL</Shape>
 			<OutsideDiameter Unit="in">0.795</OutsideDiameter>
+			<InsideDiameter Unit="in">0.725</InsideDiameter>
 			<ShoulderDiameter Unit="in">0.725</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.500</ShoulderLength>
 			<Length Unit="in">2.600</Length>
@@ -2959,6 +2992,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">0.920</OutsideDiameter>
+			<InsideDiameter Unit="in">0.863</InsideDiameter>
 			<ShoulderDiameter Unit="in">0.863</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.68</ShoulderLength>
 			<Length Unit="in">6.0</Length>
@@ -2974,6 +3008,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">0.900</OutsideDiameter>
+			<InsideDiameter Unit="in">0.850</InsideDiameter>
 			<ShoulderDiameter Unit="in">0.850</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.750</ShoulderLength>
 			<Length Unit="in">6.000</Length>
@@ -2988,6 +3023,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">1.040</OutsideDiameter>
+			<InsideDiameter Unit="in">1.000</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.000</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.500</ShoulderLength>
 			<Length Unit="in">5.250</Length>
@@ -3023,6 +3059,7 @@ All nose cone and transition shoulder diameters have been set to .003" smaller t
 			<Filled>true</Filled>
 			<Shape>OGIVE</Shape>
 			<OutsideDiameter Unit="in">1.673</OutsideDiameter>
+			<InsideDiameter Unit="in">1.590</InsideDiameter>
 			<ShoulderDiameter Unit="in">1.590</ShoulderDiameter>
 			<ShoulderLength Unit="in">0.750</ShoulderLength>
 			<Length Unit="in">5.500</Length>
