@@ -1228,16 +1228,13 @@ Force:  N, lbf, kgf
 Impulse:  Ns, lbf*s
 ```
 
-### OpenRocket 15.03 .orc Database File Limitations
-
-NOTE: information in this section has not been updated for the OpenRocket 2022 betas.
+### OpenRocket 24.12 .orc Database File Limitations
 
 There are some pretty serious limitations on what can be specified in the .orc component
 database files.  Some of these could potentially be fixed easily; others are more
 structural.
 
 * General limitations:
-   * Cannot 'include' other .orc files
    * Cannot make components that are groupings of other components
    * Can only reference materials from within the same file
    * Cannot define any graphic appearance attributes
@@ -1263,15 +1260,15 @@ structural.
      and may have no effect
    * Cannot specify a minimum packing length (usually the streamer width + margin)
 * Fins:
-   * Cannot define finset or tubefin components at all
+   * Cannot define finset or tubefin component presets at all
 * Mass components:
-   * Cannot define mass components at all
+   * Cannot define mass component presets at all
 * Shock cords:
-   * Cannot define shock cord components at all
+   * Cannot define shock cord component presets at all
 * Additional problems not specific to .orc files:
    * OR does not model moments of inertia for hollow NC/transition shoulders
    * No support for rail guides
-   * No support for lug standoffs (maybe fixed in 2022 betas)
+   * No support for lug standoffs
    * Cannot attach a mass object to a parachute (e.g. Chute Release device)
    * Cannot attach a mass object to a streamer
    * Cannot attach finsets to nose cones and transitions (thus cannot model Estes Sprint XL),
@@ -1281,20 +1278,15 @@ structural.
    * No support for streamer attachment lines
    * No support for parachutes with spill holes
    * No support for different parachute designs (flat, spherical, toroid, x-form, etc.)
-   * Cannot specify packing volume or packed length/diameter for parachutes
 * UI issues related to component databases and part selection
    * Diameter matching in the UI is buggy
-   * If you are defining a nose cone and load one from the database with a different shape, the
-     shape dropdown doesn't update and the displayed mass doesn't recompute.  I haven't verified it,
-     but this may also be a bug with transitions.
    * UI doesn't visually distinguish between component intrinsic attributes and parameters
      related to their placement or use in the design like relative position, radial position, etc.
    * Duplicating a part, whether by copy/paste or by creating a 2nd one attached to the same
      parent component, always puts them right on top of each other.  That is useful for
      items that are going to be distributed radially about the centerline like cluster motor
      tubes, but not helpful for centering rings, launch lugs, and bulkheads.
-   * Packing length of streamers should default to the width of the
-     streamer.
+   * Packing length of streamers should default to the width of the streamer.
    * Relative (axial) position and radial position of components really should be on the same tab.
 
 ### Hardcoded Default Materials and Preference/Registry Augmentation of the Materials Dropdown List
