@@ -1561,8 +1561,8 @@ SOURCE ERROR: Weights per foot of coupler tubes larger than FC30 are not given, 
         <PartNumber>FWCF-54C-060</PartNumber>
         <Description>Tube coupler, 54mm, carbon fiber, black, 6.0 in.</Description>
         <Material Type="BULK">Carbon fiber epoxy composite, Madcow FWCF, bulk</Material>
-        <InsideDiameter Unit="in">1.370</InsideDiameter>
-        <OutsideDiameter Unit="in">1.518</OutsideDiameter>
+        <InsideDiameter Unit="in">2.0</InsideDiameter>
+        <OutsideDiameter Unit="in">2.15</OutsideDiameter>
         <Length Unit="in">6.0</Length>
       </TubeCoupler>
       <TubeCoupler>
@@ -1570,8 +1570,8 @@ SOURCE ERROR: Weights per foot of coupler tubes larger than FC30 are not given, 
         <PartNumber>FWCF-54C-080</PartNumber>
         <Description>Tube coupler, 54mm, carbon fiber, black, 8.0 in.</Description>
         <Material Type="BULK">Carbon fiber epoxy composite, Madcow FWCF, bulk</Material>
-        <InsideDiameter Unit="in">1.370</InsideDiameter>
-        <OutsideDiameter Unit="in">1.518</OutsideDiameter>
+        <InsideDiameter Unit="in">2.0</InsideDiameter>
+        <OutsideDiameter Unit="in">2.15</OutsideDiameter>
         <Length Unit="in">8.0</Length>
       </TubeCoupler>
       <!-- FWCF-3C coupler size and weight not given, dimensions here assumed same as FC30 -->
