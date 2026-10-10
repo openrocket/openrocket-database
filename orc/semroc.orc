@@ -19460,7 +19460,7 @@ Finish rectifying nose cone shoulder lengths against drawings from legacy site
         <PartNumber>BTC-20BB [R]</PartNumber>
         <Description>Transition, balsa, ST-20, 3.0", complex nozzle, reducing, drilled 29mm, PN BTC-20BB</Description>
         <Material Type="BULK">Balsa, bulk, 7lb/ft3</Material>
-        <Mass Unit="oz">0.21</Mass>
+        <Mass Unit="oz">0.82</Mass>
         <Shape>OGIVE</Shape>
         <Filled>true</Filled>
         <ForeOutsideDiameter Unit="in">2.040</ForeOutsideDiameter>
